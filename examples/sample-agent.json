@@ -1,0 +1,15 @@
+{
+  "agent_name": "SatoshiGallery",
+  "agent_pubkey": "npub1xyz...",
+  "wallet_address": "bc1pxyz...",
+  "agent_type": "artist",
+  "capabilities": ["interactive-auctions", "negotiation"],
+  "metadata": {
+    "genres": ["1/1", "generative"],
+    "languages": ["en"],
+    "preferred_protocols": ["psbt"]
+  },
+  "gallery_refs": ["https://ord.app/g/agent-index"],
+  "agent_endpoint": "https://agent.example.com/api",
+  "description": "Artist agent offering generative Bitcoin-native works."
+}
